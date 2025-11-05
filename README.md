@@ -1,26 +1,54 @@
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=IIRodeDraakII&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=IIRodeDraakII&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=IIRodeDraakIIa&show_icons=true" />
-</picture>
+<!-- Cyberpunk Black Profile Theme for IIRodeDraakII -->
 
-<!--
-**IIRodeDraakII/IIRodeDraakII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">⚡ Welcome to <span style="color:#00FFFF;">IIRodeDraakII</span>'s Grid ⚡</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <em>🚀 Crafting code in the dark, glowing in neon.</em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🖤 System Diagnostics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IIRodeDraakII&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+</p>
+
+---
+
+### 💾 My languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIRodeDraakII&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+</p>
+
+---
+
+### 🔥 N
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=IIRodeDraakII&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 Github Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=IIRodeDraakII&theme=matrix&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+---
+
+<h3 align="center">💫 Links</h3>
+
+<p align="center">
+  <a href="https://github.com/IIRodeDraakII" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FFFF" /></a>
+  <a href="https://discord.com/users/271738771202899968" target="_blank"><img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=00FFFF" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer" />
+</p>
