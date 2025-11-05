@@ -1,14 +1,7 @@
 <!-- Cyberpunk Black Profile Theme for IIRodeDraakII -->
 
-<h1 align="center">⚡ Welcome to <span style="color:#00FFFF;">IIRodeDraakII</span>'s Grid ⚡</h1>
-
-<p align="center">
-  <em>🚀 Crafting code in the dark, glowing in neon.</em>
-</p>
 
 ---
-
-### 🖤 System Diagnostics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IIRodeDraakII&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
@@ -22,13 +15,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIRodeDraakII&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
 </p>
 
----
-
-### 🔥 N
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=IIRodeDraakII&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
-</p>
 
 ---
 
