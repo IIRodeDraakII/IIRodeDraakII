@@ -5,7 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=500&height=45&lines=Context+Engineering+Specialist;Full-Stack+Developer;Building+with+.NET+%26+TypeScript)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/IIRodeDraakII-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IIRodeDraakII)
-[![Location](https://img.shields.io/badge/Schiedam,_NL-0d1117?style=for-the-badge&logo=google-maps&logoColor=58a6ff)](https://github.com/IIRodeDraakII)
 
 </div>
 
@@ -15,8 +14,8 @@
 var jessey = new Developer
 {
     Role     = "Context Engineering Specialist",
-    Location = "Schiedam, Netherlands",
-    Stack    = new[] { "C#", ".NET", "TypeScript", "JavaScript" },
+    Location = "Netherlands",
+    Stack    = new[] { "C#", ".NET", "TypeScript", "JavaScript", "Vue" },
     Focus    = new[] { "System Design", "API Architecture", "Full-Stack" }
 };
 ```
@@ -45,7 +44,7 @@ var jessey = new Developer
 ### About
 
 - Building backend systems and APIs with C# / .NET
-- Front-end work with TypeScript & React
+- Front-end work with TypeScript & React, Angular and Vue
 - Interested in context engineering and system design
 - Most of my work lives in private repos
 
