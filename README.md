@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Jessey%20de%20Man&fontColor=58a6ff&fontSize=42&fontAlignY=38&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&fontColor=58a6ff&fontSize=42&fontAlignY=38&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=500&height=45&lines=Context+Engineering+Specialist;Full-Stack+Developer;Building+with+.NET+%26+TypeScript)](https://git.io/typing-svg)
 
