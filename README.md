@@ -15,8 +15,8 @@ var jessey = new Developer
 {
     Role     = "Context Engineering Specialist",
     Location = "Netherlands",
-    Stack    = new[] { "C#", ".NET", "TypeScript", "JavaScript", "Vue" },
-    Focus    = new[] { "System Design", "API Architecture", "Full-Stack" }
+    Stack    = new[] { "C#", ".NET", "TypeScript", "JavaScript", "Vue", "Angular", "Razor" },
+    Focus    = new[] { "System Design", "API Architecture", "Full-Stack", "Process Automation" }
 };
 ```
 
